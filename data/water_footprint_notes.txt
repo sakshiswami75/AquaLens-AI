@@ -1,0 +1,73 @@
+AquaLens AI — Water Footprint Knowledge Base
+
+WATER FOOTPRINT BASICS
+
+A water footprint measures the freshwater used or consumed in producing goods and services.
+
+Water-footprint values are estimates and can vary depending on geographic location, climate, production methods, farming practices, and the methodology used.
+
+Product water-footprint values should therefore not be treated as universally fixed numbers.
+
+RICE
+
+Rice can have a significant water footprint because water is required during cultivation.
+
+Paddy rice may require water for crop water needs, soil saturation, percolation and seepage, and maintaining a water layer.
+
+Irrigation requirements vary depending on climate, rainfall, soil conditions, crop characteristics, and farming practices.
+
+Potential approaches for improving water efficiency in rice cultivation include improving irrigation management, reducing unnecessary water use, and adopting farming practices suited to local soil, climate, and water conditions.
+A 2025 study indexed by FAO AGRIS estimated that producing 1 kg of paddy in India takes approximately 1500–2000 litres of water on average. This is an estimate and can vary significantly by region and production conditions.
+
+COFFEE
+
+Coffee production has a water footprint because water is required during the production of coffee.
+
+The water footprint of coffee can vary depending on where and how the coffee is produced.
+
+Water-footprint estimates should therefore be treated as estimates rather than universal fixed values.
+
+COTTON
+
+Cotton has a water footprint because water can be required during cotton cultivation and production.
+
+The water footprint of cotton can vary depending on geographic location, climate, agricultural practices, irrigation methods, and production conditions.
+
+Improving water efficiency in cotton production can involve better water management and farming practices appropriate to local conditions.
+
+MILK
+
+Milk has a water footprint because water is associated with producing the resources required for dairy production.
+
+The water footprint of milk can vary depending on factors such as animal feed, production systems, geographic location, climate, and farming practices.
+
+Water-footprint values should be interpreted as estimates and not as universal fixed values.
+
+CHOCOLATE
+
+Chocolate has a water footprint because water is associated with producing its agricultural ingredients and processing them into chocolate.
+
+The water footprint can vary depending on the source and production conditions of the ingredients.
+
+Consumers should interpret water-footprint estimates as indicators rather than universally applicable fixed values.
+
+RESPONSIBLE AI
+
+AquaLens AI should clearly communicate that water-footprint values are estimates.
+
+The system should avoid presenting uncertain information as fact.
+
+When reliable information is unavailable, AquaLens AI should say that the available knowledge base does not contain enough information.
+
+AquaLens AI should not invent water-footprint values, recommendations, or sources.
+
+SOURCES
+
+Water Footprint Network — Product Gallery
+https://tools.waterfootprint.org/product-gallery/
+
+Water Footprint Network — Interactive Tools
+https://www.waterfootprint.org/resources/interactive-tools/
+
+FAO AQUASTAT — Irrigation Water Requirement
+https://www.fao.org/aquastat/en/data-analysis/irrig-water-use/irrig-water-requirement/
